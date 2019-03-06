@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/Game1942">
+        <file>Resources/background.jpg</file>
+        <file>Resources/item.jpg</file>
+        <file>Resources/beijing.jpg</file>
+        <file>Resources/beijing1.jpg</file>
+        <file>Resources/feijiboss.png</file>
+        <file>Resources/feijienemy.png</file>
+        <file>Resources/feijiown.png</file>
+        <file>Resources/zidan.png</file>
+        <file>Resources/cleardijun.jpg</file>
+        <file>Resources/jiafen.jpg</file>
+        <file>Resources/jiaming.jpg</file>
+        <file>Resources/jiapower.jpg</file>
+        <file>Resources/jiazidan.jpg</file>
+        <file>Resources/jiaziji.jpg</file>
+        <file>Resources/1.mp3</file>
+        <file>Resources/BGM.mp3</file>
+        <file>Resources/liuxing.jpg</file>
+        <file>Resources/xingkong.jpg</file>
+        <file>Resources/baocun.png</file>
+        <file>Resources/luxiang.png</file>
+        <file>Resources/tuichu.png</file>
+        <file>Resources/zijizidan.png</file>
+        <file>Resources/tiaoxing1.png</file>
+        <file>Resources/tiaoxing2.png</file>
+        <file>Resources/tiaoxing3.png</file>
+    </qresource>
+</RCC>
